@@ -2,7 +2,7 @@
  * @author: 0x404
  * @Date: 2021-08-15 19:34:46
  * @LastEditTime: 2021-08-15 19:38:45
- * @Description: 
+ * @Description: 智乃酱的区间乘积 
  */
 
 #include <cstdio>

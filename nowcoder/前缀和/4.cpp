@@ -2,7 +2,7 @@
  * @author: 0x404
  * @Date: 2021-08-15 21:37:01
  * @LastEditTime: 2021-08-15 21:41:06
- * @Description: 
+ * @Description: 牛牛的猜球游戏 
  */
 
 #include <cstdio>
